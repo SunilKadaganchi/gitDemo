@@ -1,1 +1,5 @@
 Welcome to Git (Version Control System)
+
+Git - it is a version control system , which maintains the history of all versions of our files i .e any change in our files
+
+GitHub - Git hub is a service provider , its provides the remote repository to maintain our changes in our files and to collaborate with the team from anywhere
